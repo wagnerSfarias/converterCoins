@@ -9,7 +9,7 @@ Para consultar os valores atualizados utilizei a
 
 ## Layout 
 
-<!-- ![apresentacao](https://github.com/wagnerSfarias/buscarCEP/blob/main/src/assets/ezgif.com-gif-maker.gif?raw=true=300x534)  -->
+![apresentacao](https://github.com/wagnerSfarias/buscarCEP/blob/main/src/assets/ezgif.com-gif-maker.gif?raw=true=300x534) 
 
 
 ## Tecnologias utilizadas
